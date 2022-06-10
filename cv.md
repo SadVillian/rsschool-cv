@@ -1,8 +1,9 @@
-#***Adam Zhilyaev***
-##Contact info:
+# ***Adam Zhilyaev***
+
+## Contact info:
 ```
-##discord:@sadvillian
-##telegram:@badvillian
+discord:@sadvillian
+telegram:@badvillian
 ```
-###> Want learn something new
-###- 0 skills 0 knowledge 
+> Want learn something new
+###  0 skills 0 knowledge 
